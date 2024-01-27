@@ -1,1 +1,2 @@
-# sesion26012024
+# sesion012024
+Segundo cambio aplicado al archivo principal.
